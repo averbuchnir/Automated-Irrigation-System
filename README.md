@@ -1,5 +1,6 @@
 
-In this project we have build an fully automated Irrigation ststem
+In this project me and my partner Shani Friedman (https://www.linkedin.com/in/shanigf/) have build an fully automated Irrigation ststem
+
 1. In order to maximize water potential for the plant, both lysimerer and time interval are controlled.
 2. Irrigation can be controled by the soil moisure probe("PM-WCS-3"),When the soil moisture falls below a pre-determined level, irrigation is stopped until the soil moisture stabilizes.
 3. Irrgation also controled by the "plant demand", during the day the the loss of weight measured can be translated to evapotranspiration (https://en.wikipedia.org/wiki/Evapotranspiration), and we can irrigate by the water loss.
