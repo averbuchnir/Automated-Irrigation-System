@@ -1,11 +1,10 @@
 
+In this project we have build an fully automated Irrigation ststem
+1. In order to maximize water potential for the plant, both lysimerer and time interval are controlled.
+2. Irrigation can be controled by the soil moisure probe("PM-WCS-3"),When the soil moisture falls below a pre-determined level, irrigation is stopped until the soil moisture stabilizes.
+3. Irrgation also controled by the "plant demand", during the day the the loss of weight measured can be translated to evapotranspiration (https://en.wikipedia.org/wiki/Evapotranspiration), and we can irrigate by the water loss.
 
-
-
-We will build a few kinds of irrigation control systems:
-1. A fixed amount of water is given in fixed time intervals.
-2. irrigation is actuated by a soil moisture sensor. Whenever soil moisture goes below a pre-determined threshold, irrigation faucet is opened.
-3. irrigation is actuated by the weight of the pot where the plant grows in. When the weight goes down, it means that water evaporated, and irrigation water is needed to replenish what was lost. (How to deal with the mass of the plant that keeps growing?)
+this project involves 
 
 involve: 
 * building a digital scale based on a load cell.
