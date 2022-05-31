@@ -10,3 +10,6 @@ involve:
 * building a digital scale based on a load cell.
 * setting up an ESP32 microcontrollers to receive data from the sensors make the necessary real-time calculations, and control irrigation.\n",
 * uploading real-time data to the cloud (e.g. ThingSpeak)
+
+In the Subcode folder it is possible to find seperate ".ino" code for each part of the 
+project (some of them have the online guide we used, and photos)
